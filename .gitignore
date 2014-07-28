@@ -1,0 +1,13 @@
+# LWSM config files
+/sites
+/lwsm.properties
+
+# eclipse
+/.classpath
+/.project
+/.settings
+
+# misc
+/bin
+/build
+/release/LWSM.exe
